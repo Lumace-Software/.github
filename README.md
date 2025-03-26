@@ -1,7 +1,5 @@
 # LUMACE
 
-![Lumace Logo](https://via.placeholder.com/200x80?text=LUMACE)
-
 ## Acerca de Nosotros
 
 Lumace es una empresa innovadora de desarrollo de software fundada con la misión de transformar ideas complejas en soluciones tecnológicas elegantes y funcionales. Nos especializamos en crear productos de software personalizados que no solo resuelven problemas empresariales específicos, sino que también proporcionan una experiencia de usuario excepcional.

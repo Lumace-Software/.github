@@ -1,39 +1,23 @@
 # ✨ LUMACE
 
-## 🚀 Quiénes Somos
-Transformamos ideas complejas en soluciones tecnológicas elegantes. Desarrollamos software personalizado que resuelve problemas empresariales específicos con experiencias de usuario excepcionales.
+## 🚀 Transformamos Ideas en Soluciones Digitales
+Desarrollamos software personalizado que impulsa el crecimiento de tu negocio con experiencias excepcionales.
 
-## 💡 Nuestra Filosofía
-* **Innovación Tecnológica** - Soluciones de vanguardia
-* **Diseño Intuitivo** - Interfaces atractivas y accesibles
-* **Colaboración Transparente** - Comunicación constante
+## 💎 Nuestro Valor
+**Innovación + Diseño + Colaboración**
 
-## 🛠️ Servicios
-* **Desarrollo a Medida** - Software personalizado para necesidades específicas
-* **Apps Web y Móviles** - Experiencias optimizadas en todos los dispositivos
-* **Consultoría Tech** - Asesoramiento experto en arquitectura y estrategia
-* **Soporte Continuo** - Mantenimiento y evolución de soluciones
+## 🔥 Lo Que Hacemos
+• **Desarrollo a Medida** • **Apps Web/Móviles** • **Consultoría Tech** • **IA**
 
-## 💻 Tecnologías
-* **Frontend**: Vue.js, Alpine.js
-* **Backend**: Django, Django RF, Stripe, Strapi
-* **Datos**: PostgreSQL, MongoDB, MySQL, Redis
-* **Cloud**: Google Cloud, Railway, On Premise
-* **DevOps**: Docker, Kubernetes, GitHub Actions
-* **IA**: Predicciones, Pandas, NumPy, scikit-learn
+## 💻 Stack Tecnológico
+Vue.js • Django • PostgreSQL • GCloud • Docker • ML/IA
 
-## 📈 Casos de Éxito
-* **Nexium** - Reducción de costos operativos en 60%
-* **Flor Catorce RH** - Automatización de procesos en nominas y gestión de empleados
+## ⚡ Impacto Real
+• **Nexium**: -60% en costos operativos
+• **Flor Catorce RH**: Automatización completa de nóminas
 
-
-## ⭐ Por Qué Elegirnos
-Combinamos experiencia comprobada, talento excepcional y compromiso con la calidad. Nuestro enfoque personalizado asegura soluciones que evolucionan con tu negocio.
-
-## 📩 Contáctanos
-¡Convirtamos tu visión en realidad!
-* 📧 info@lumace.cloud
-* 🌐 developers.lumace.cloud
+## 📩 Hablemos
+📧 info@lumace.cloud | 🌐 developers.lumace.cloud
 
 ---
 

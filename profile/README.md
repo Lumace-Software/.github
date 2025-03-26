@@ -23,10 +23,9 @@ Transformamos ideas complejas en soluciones tecnológicas elegantes. Desarrollam
 * **IA**: Predicciones, Pandas, NumPy, scikit-learn
 
 ## 📈 Casos de Éxito
-* **FinTech** - Reducción de costos operativos en 40%
-* **Salud** - Mejora en eficiencia administrativa hospitalaria
-* **Logística** - Reducción de tiempos de entrega en 25%
-* **Educación** - Aumento de retención estudiantil en 60%
+* **Nexium** - Reducción de costos operativos en 60%
+* **Flor Catorce RH** - Automatización de procesos en nominas y gestión de empleados
+
 
 ## ⭐ Por Qué Elegirnos
 Combinamos experiencia comprobada, talento excepcional y compromiso con la calidad. Nuestro enfoque personalizado asegura soluciones que evolucionan con tu negocio.
